@@ -1,0 +1,3 @@
+[submodule "OthelloArenaPython"]
+	path = OthelloArenaPython
+	url = https://github.com/kuritaro1122/OthelloArenaPython.git
